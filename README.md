@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Maricarmen170/Maricarmen170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 
 👨🏻‍💻  About Me
@@ -15,4 +10,4 @@ Here are some ideas to get you started:
 💬  Puedes comunicarte conmigo en marilizet1718@gmail.com o conectarte conmigo en las redes sociales.
 -[Twitter](https://twitter.com/MaricarmenBarzo)
 -[LinKedIn](https://www.linkedin.com/in/maricarmenlizet/)
--->
+
