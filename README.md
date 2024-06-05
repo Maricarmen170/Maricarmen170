@@ -4,6 +4,8 @@
 
 👨🏻‍💻  About Me
 <br>
+<br>
+
 🚀  Tengo una pasión de toda la vida por todo lo relacionado con las computadoras y disfruto de la codificación.
 <br>
 🎓   Graduada como desarrolladora Fullstack en el Bootcamp Tripleten
