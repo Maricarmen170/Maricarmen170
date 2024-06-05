@@ -15,5 +15,6 @@
 💬  Puedes comunicarte conmigo en marilizet1718@gmail.com o conectarte conmigo en las redes sociales.
 <br>
 -[Twitter](https://twitter.com/MaricarmenBarzo)
+<br>
 -[LinKedIn](https://www.linkedin.com/in/maricarmenlizet/)
 
