@@ -25,7 +25,7 @@
 <br>
 😺 &nbsp; Soy una amante de los gatos, y mi amigo felino Blue es mi fiel compañero.
 <br>
-💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en maricarmen1718@gmai.com
+💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en marilizet1718@gmai.com
 <br>
 <br>
 
