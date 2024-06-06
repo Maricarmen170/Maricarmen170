@@ -6,10 +6,9 @@
 </p>
 
  <img src="https://imgur.com/BprT5wH.png">
- <br>
-👨🏻‍💻 &nbsp;About Me
-<br>
-<br>
+ 
+### 👨🏻‍💻 &nbsp;About Me
+
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
@@ -46,7 +45,18 @@
 
 <br/>
 
-### 🤝🏻 &nbsp; Encuentrame:
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Maricarmen170">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maricarmen170&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierdamiani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 
@@ -55,4 +65,3 @@
 <a href="https://www.instagram.com/mari_cbarzola/"><img src="https://img.shields.io/badge/%40mari_cbarzola-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/Maricarmen170"><img src="https://img.shields.io/badge/Maricarmen170-00008B?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
-
