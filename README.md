@@ -11,20 +11,17 @@
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
+<br>
+
    
-🚀  Tengo una pasión de toda la vida por todo lo relacionado con las computadoras y disfruto de la codificación.
+🚀&nbsp;  Tengo pasión por las computadoras y disfruto de la codificación.
 <br>
-🎓   Graduada como desarrolladora Fullstack en el Bootcamp Tripleten
+🎓 &nbsp;  Graduada como desarrolladora Fullstack en el Bootcamp Tripleten
 <br>
-😺  Soy una amante de los gatos, y mi amigo felino Blue es mi fiel compañero.
+😺 &nbsp; Soy una amante de los gatos, y mi amigo felino Blue es mi fiel compañero.
 <br>
-🧉  Me gusta charlar sobre todo tipo de temas mientras escucho música.
+💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en maricarmen1718@gmai.com
 <br>
-💬  Puedes comunicarte conmigo en marilizet1718@gmail.com o conectarte conmigo en las redes sociales.
-<br>
--[Twitter](https://twitter.com/MaricarmenBarzo)
-<br>
--[LinKedIn](https://www.linkedin.com/in/maricarmenlizet/)
 <br>
 
 ### 🛠 &nbsp;Tech Stack
@@ -42,6 +39,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br/><br/>
+<br/>
 
+### 🤝🏻 &nbsp; Encuentrame:
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/maricarmenlizet/"><img src="https://img.shields.io/badge/maricarmenlizet-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:marilizet1718@gmail.com"><img src="https://img.shields.io/badge/marilizet1718@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mari_cbarzola/"><img src="https://img.shields.io/badge/%40mari_cbarzola-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Maricarmen170"><img src="https://img.shields.io/badge/Maricarmen170-00008B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/><br/>
 
